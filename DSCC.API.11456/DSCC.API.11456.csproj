@@ -25,6 +25,7 @@
     <None Remove="Context\" />
     <None Remove="Controllers\" />
     <None Remove="Migrations\" />
+    <None Remove="app\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Models\" />
@@ -33,6 +34,7 @@
     <Folder Include="Context\" />
     <Folder Include="Controllers\" />
     <Folder Include="Migrations\" />
+    <Folder Include="app\" />
   </ItemGroup>
   <ItemGroup>
     <None Update="InitDBsql">

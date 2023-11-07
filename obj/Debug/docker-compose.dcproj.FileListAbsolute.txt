@@ -1,0 +1,1 @@
+/Users/mac/Desktop/DSCC.API.11456/obj/Debug/docker-compose.dcproj.CoreCompileInputs.cache
