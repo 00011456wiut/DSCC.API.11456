@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{612D7604-4D45-4FFC-8298-227114559415}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="DSCC.API.11456/Dockerfile">
+    <Files>
+      <File FileName="DSCC.API.11456/Context/UniContext.cs" />
+      <File FileName="DSCC.API.11456/appsettings.json" />
+      <File FileName="DSCC.API.11456/Program.cs" />
+      <File FileName="DSCC.API.11456/Controllers/BlogController.cs" />
+      <File FileName="DSCC.API.11456/Repositories/BlogRepository.cs" />
+      <File FileName="DSCC.API.11456/Controllers/UniversityController.cs" />
+      <File FileName="DSCC.API.11456/Repositories/UniversityRepository.cs" />
+      <File FileName="DSCC.API.11456/Interfaces/IBlogRepository.cs" />
+      <File FileName="DSCC.API.11456/Models/Blog.cs" />
+      <File FileName="DSCC.API.11456/Models/University.cs" />
+      <File FileName="DSCC.API.11456/Migrations/20231105103239_InitialMigration.cs" />
+      <File FileName="DSCC.API.11456/Migrations/UniContextModelSnapshot.cs" />
+      <File FileName="DSCC.API.11456/Dockerfile" Line="9" Column="50" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DSCC.API.11456" expanded="True">
+            <Node name="DSCC.API.11456" expanded="True">
+              <Node name="Context" expanded="True" />
+              <Node name="Dockerfile" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.DSCC.API.11456 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.docker-compose PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
